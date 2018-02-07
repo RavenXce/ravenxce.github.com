@@ -18,7 +18,7 @@ This page contains some of the past projects I have contributed to, as well as s
 
 #### Previous:
 
-* [Teammates](http://teammatesv4.appspot.com/about.html):  A robust peer evaluation platform for academic team projects.
+* [Teammates](https://teammatesv4.appspot.com/about.jsp):  A robust peer evaluation platform for academic team projects.
 
 ### Contact me at
 +65-92218698<br>
