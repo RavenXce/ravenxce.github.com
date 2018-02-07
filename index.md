@@ -1,4 +1,4 @@
-## Ivan
+## About
 
 This page contains some of the past projects I have contributed to, as well as some info about my current professional work.
 
