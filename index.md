@@ -13,13 +13,6 @@ This page contains some of the past projects I have contributed to, as well as i
 
 * [Conjur Technologies](https://conjur.tech): Partner at Conjur Technologies.
 * [Bumbox](https://bumbox.com.sg): CTO for Bumbox Logistics. Bumbox provided on-demand, pay-per-use storage lockers at convenient locations to mitigate parcel delivery failures. Exited through a sale in 2015.
- 
-### Projects
-
-#### Previous:
-
-* [Teammates](https://teammatesv4.appspot.com/about.jsp):  A robust peer evaluation platform for academic team projects.
 
 ### Contact me at
-+65-92218698<br>
 [contact@ivanpoon.me](mailto:contact@ivanpoon.me)
